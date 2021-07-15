@@ -10,7 +10,7 @@ body {
 #nav-bar{width:100%; margin:auto; text-align: center;}
 #description{text-align:center; }
 img{float:left;}
-#header {background-color: #633393; padding:15px; border-radius: 25px;}
+#header {background-color: #633393; padding:15px; border-radius: 15px;}
 h1,h2 {text-align: center;}
 #updateinfo {width:25%; margin-left:20%;float:left; font-size: 1.3em;background-color: #B0B6BB; border-radius:25px; padding:10px}
 #updateframe {font-size: 1.3em; float:right;margin-right:17%; width:33%;background-color: #B0B6BB; border-radius:25px;padding:10px}
