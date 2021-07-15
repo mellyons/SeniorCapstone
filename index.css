@@ -5,6 +5,18 @@ body{
   background-attachment: fixed;
 }
 
+body::before {
+            content: '';
+            position: center;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: url(background.jpg);
+            background-attachment: fixed;
+            filter: blur(8px);
+        }
+
 #main{ width: 60%; margin: auto;}
 #title{text-align:center;}
 #nav-bar{width:100%; margin:auto; text-align: center;}
