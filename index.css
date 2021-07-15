@@ -1,11 +1,8 @@
 body{
   background-image: url("background.jpg");
-    /* Add the blur effect */
-    filter: blur(8px);
-    -webkit-filter: blur(8px);
-    background-repeat: no-repeat;
-    background-position:center;
-    background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position:center;
+  background-attachment: fixed;
 }
 
 #main{ width: 60%; margin: auto;}
@@ -19,6 +16,7 @@ h1,h2 {text-align: center;}
 #updateframe {font-size: 1.3em; float:right;margin-right:17%; width:33%;background-color: #B0B6BB; border-radius:25px;padding:10px}
 h2{text-decoration: underline;}
 #registerframe {font-size: 1.3em; width:35%; margin:auto;background-color: #B0B6BB; border-radius:25px;padding:10px}
+
 .searchfunction {width: 50%;
   margin: auto;
   padding: 10px;
