@@ -3,7 +3,7 @@ body{
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(5px);
 }
 
 #main{ width: 60%; margin: auto; background-image: url("background.jpb")}
