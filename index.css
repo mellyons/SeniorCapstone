@@ -1,3 +1,12 @@
+.background-img{
+  background-image: url("background.jpg");
+    /* Add the blur effect */
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+}
 
 #main{ width: 60%; margin: auto;}
 #title{text-align:center;}
@@ -16,16 +25,6 @@ h2{text-decoration: underline;}
   text-align: center;}
 
 
-/*CSS for class*/
-.background-img{
-  background-image: url("background.jpg");
-    /* Add the blur effect */
-    filter: blur(8px);
-    -webkit-filter: blur(8px);
-    background-repeat: no-repeat;
-    background-position:left top;
-    background-attachment: fixed;
-}
 .searchfilters {
   font-weight: bold;
     color:white;
