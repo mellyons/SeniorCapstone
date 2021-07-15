@@ -1,5 +1,8 @@
 body {
   background-image: url("background.jpg");
+  /* Add the blur effect */
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
   background-repeat: no-repeat;
   background-position:left top;
   background-attachment: fixed;
