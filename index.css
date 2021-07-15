@@ -1,7 +1,5 @@
 
-
-
-#main{ width: 60%; margin: auto;}
+#main{ width: 60%; margin: auto; background-image: url("background.jpb")}
 #title{text-align:center;}
 #nav-bar{width:100%; margin:auto; text-align: center;}
 #description{text-align:center; }
