@@ -1,4 +1,4 @@
-body.background-img{
+body{
   background-image: url("background.jpg");
     /* Add the blur effect */
     filter: blur(8px);
