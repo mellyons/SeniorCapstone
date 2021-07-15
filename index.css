@@ -33,7 +33,8 @@ h2{text-decoration: underline;}
 .nav-link:hover {color:red;}
 .picture{float:left; padding:15px;}
 .row{padding:10px;}
-.column {float:left; width:30%; padding:10px; height:50px; background-color:white;}
+.column {float:left; width:30%; padding:10px; height:50px;}
+.column.p {background-color:white;}
 .row:after {content: ""; display: table; clear: both;}
 .row2{background:#C0C0C0;}
 .column1{float:left; width:30%; padding:10px; height:50px;}
