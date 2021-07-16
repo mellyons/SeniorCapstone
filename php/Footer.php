@@ -9,5 +9,3 @@
 	</div>
 	<br>         
 </footer>
-</body> 
-</html>
